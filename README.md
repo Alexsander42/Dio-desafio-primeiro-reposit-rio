@@ -1,2 +1,2 @@
-# Dio-desafio-primeiro-reposit-rio
+# Dio-desafio-primeiro-repositório
 Desafio de projeto
